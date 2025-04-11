@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: esto es el taller la parresía
+    title: ''
     subtitle: >-
       Un espacio de cartelismo, experimentación y comunicación de calle que
       habita entre Medellín y Bogotá, CO.
