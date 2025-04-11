@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: >-
-      Un espacio de cartelismo, experimentación y comunicación de calle que
-      habita entre Medellín y Bogotá, CO.
+    subtitle: ''
     styles:
       self:
         height: auto
